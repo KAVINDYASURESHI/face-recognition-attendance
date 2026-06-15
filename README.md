@@ -71,4 +71,5 @@ of individuals photographed during development.
 ## Author
 Kavindya Hewage | Abu Dhabi, UAE
 LinkedIn: linkedin.com/in/kavindya-sureshi-8b39681b8/
-Portfolio: https://kavindyahewage.github.io
+GitHub: github.com/KAVINDYASURESHI
+Portfolio: https://KAVINDYASURESHI.github.io
